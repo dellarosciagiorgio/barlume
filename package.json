@@ -1,0 +1,21 @@
+{
+    "name": "barlume",
+    "displayName": "barlume",
+    "description": "A colorful light theme suitable for daylight hours!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Barlume",
+                "uiTheme": "vs",
+                "path": "./themes/Barlume-color-theme.json"
+            }
+        ]
+    }
+}
