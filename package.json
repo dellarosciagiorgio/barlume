@@ -2,7 +2,19 @@
     "name": "barlume",
     "displayName": "barlume",
     "description": "A colorful light theme suitable for daylight hours!",
-    "version": "0.0.1",
+    "publisher": "gnkz",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dellarosciagiorgio/barlume"
+	},
+	"keywords": [
+		"theme",
+		"light",
+		"white",
+        "gnkz",
+        "gionkez"
+	],
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.68.0"
     },
